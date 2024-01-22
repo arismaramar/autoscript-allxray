@@ -1,4 +1,4 @@
-# Autoscript | Free To Use For AllXRAY, LEBIH WUS TANPA WEBSOCKET & HAPROXY!! HEMAT BBM, CPU, RAM, KERNEL
+# Autoscript | Free To Use For AllXRAY, LEBIH WUS TANPA  HAPROXY!! HEMAT BBM, CPU, RAM, KERNEL
 tinggal install lengkap dns nya 
 vmess support update/all bug /all-path
 Untuk Shadowsocks rekomendasi menggunakan aplikasi NetMod Syna
