@@ -25,7 +25,4 @@ vmess support update/all bug /all-path
 | DNS Setting | ✅ |
 
 # Link Instalasi
-apt update -y && apt install -y bzip2 gzip wget init coreutils openssl git screen curl && wget -O install "https://raw.githubusercontent.com/arismaramar/allxray/main/xray" && chmod +x install && screen -S install ./install
-
-# Screenshot
-![a](https://raw.githubusercontent.com/dugong-lewat/autoscript2/main/a%20(1).png)
+apt update -y && apt install -y bzip2 gzip wget init coreutils openssl git screen curl && wget -O install "https://raw.githubusercontent.com/arismaramar/autoscript-allxra/main/xray" && chmod +x install && screen -S install ./install
